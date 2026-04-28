@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import heroimg from './heroimg.png';
-import grad1 from './grad1.png';
-import footer from './footer.png';
-import profolie from './profile.png';
-import gridb1 from './gridb1.png';
-import gridb2 from './gridb2.png';
+import heroimg from './assets/heroimg.png';
+import grad1 from './assets/grad1.png';
+import footer from './assets/footer.png';
+import profolie from './assets/profile.png';
+import gridb1 from './assets/gridb1.png';
+import gridb2 from './assets/gridb2.png';
 
 /* ─── Intersection observer hook ─── */
 const useInView = (threshold = 0.12) => {
