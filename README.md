@@ -40,6 +40,32 @@ Most of the design follows the Figma file closely. The main difference is the ad
 
 I have tested the layout for responsiveness across different screen sizes and tried to ensure a smooth experience on both desktop and mobile.
 
+⚠️ Deployment Note
+
+Due to some issues while deploying on Vercel, I was unable to host the project there successfully.
+
+👉 As an alternative, I have shared the working version here:
+Live Preview: https://2713286.playcode.io
+
+You can also verify the latest edits and working behavior from this link.
+
+💭 Final Thoughts
+
+I prefer building interactive experiences rather than static pages. My goal is always to guide user attention through motion and create curiosity that encourages exploration.
+
+This project reflects that mindset.
+
+Even if I am not selected, I would truly appreciate your feedback on:
+
+User experience
+Design decisions
+Areas of improvement
+
+🔗 Repository
+
+GitHub Repository:
+https://github.com/SanHub-Soln/joyzen-Frontend-Task-.git
+
 ## Final Thought
 
 I do not prefer static web pages. I always try to add interaction so that the user feels curious and continues exploring. My goal was to guide the user attention through movement and make them naturally scroll and explore the full content.
